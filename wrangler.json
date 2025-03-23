@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "ancient-wave-73d8",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ac811032-c521-4653-91e3-b8ddf884c464",
+      "database_name": "spring-rice-ca57-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
